@@ -3,7 +3,7 @@
 
 These are the steps I followed to register as an overseas voter via Form 6A on the Election Commision of India's online voter services portal. Once the application is submitted, there is a lengthy verfication process ([https://ecisveep.nic.in/voters/overseas-voters/)](https://ecisveep.nic.in/voters/overseas-voters/)).
 <br/>
-<br/> **FYI I'm still waiting for my application to be processed so I have no idea if I registered correctly. Lol.**
+<br/> <mark>FYI I'm still waiting for my application to be processed so I have no idea if I registered correctly. Lol.</mark>
 
 You can also register by posting the application to the Election Registeration Office of your constituency. For this, the documents need to be attested by a 'competent official in the Indian Mission'. 
 
