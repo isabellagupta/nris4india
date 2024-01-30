@@ -25,7 +25,7 @@ If you know someone who lives in your constituency, you might be able to identif
 
 ## STEP 2 - CREATE AN ACCOUNT ON THE ECI WEBSITE 
 
-Click on 'Fill Form 6A' on [https://voters.eci.gov.in](https://voters.eci.gov.in). This will take you to a login page. Navigate to sign up. Sign up using your email address. 
+Click on 'Fill Form 6A' on [https://voters.eci.gov.in](https://voters.eci.gov.in). This will take you to a login page. Navigate to 'sign up'. Sign up using your email address. 
 <br/>
 <br/> **Note:** Sometimes, the OTP does not get sent out for hours, by which time the sign up page times out. If you don't receive the OTP, try again in a few hours/the next day. 
 
@@ -40,7 +40,7 @@ Once you've signed up, log in, and fill in Form 6A. Keep this information handy 
 
 ## STEP 4 - ALL DONE
 
-Once you submit, you will be assigned an application number. Copy this and save it somewhere - you will need it to track your application status. It's also available in the pdf copy of the form but is impossible to copy from there. Download the PDF copy of comleted form. You can now track your application status at https://voters.eci.gov.in/home/track
+Once you submit, you will be assigned an application number. Copy this and save it somewhere - you will need it to track your application status. It's also available in the PDF of the form but is impossible to copy from there. Download the PDF copy of the completed form. You can now track your application status at [https://voters.eci.gov.in](https://voters.eci.gov.in/home/track)
 
 <br/>
 For questions/comments - Telegram @isabellagupta 
