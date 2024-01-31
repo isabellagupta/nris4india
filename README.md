@@ -21,7 +21,7 @@ Click on the search button on the top left and enter your pincode, this will tak
 <br/>
 <br/> If you know someone who lives in your constituency, you might be able to identify it using [https://electoralsearch.eci.gov.in/](https://electoralsearch.eci.gov.in/) instead.
 <br/>
-<br/> **Note:** You need to specify the assembly constituency in the form, not the parliamentary constituency.
+<br/> **Note:** You need to specify the assembly constituency in the form, not the parliamentary constituency ([this](https://prsindia.org/) has a handy tool to find your parliamentary constituency and MP via pincode)
 
 ## STEP 2 - CREATE AN ACCOUNT ON THE ECI WEBSITE 
 
