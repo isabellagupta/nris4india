@@ -10,16 +10,16 @@ You can also register by posting the application to the Election Registeration O
 ## STEP 1 - FIND YOUR CONSTITUENCY 
 Form 6A requires your assembly constituency, which was a pain in the ass to identify. 
 <br/>
-<br/> If you're not sure which constituency you are eligible to vote in, try this - 
+<br/> If you're not sure which constituency you are eligible to vote in, try this map - 
 
 [https://isabellagupta.github.io/ac-2011](https://isabellagupta.github.io/ac-2011/)
-Click on the search button on the top left and enter your pincode. Zoom in until you can read the label - this is your assembly constituency. 
+Click on the search button on the top left and enter your pincode, this will take you to the approximate area of your constituency. Zoom in until you can identify your address and read the constituency label - this is your assembly constituency. 
 <br/>
-<br/> This map has assembly constituency boundaries from the 2011 delimitation. If your state conducted a delimitation exercise post-2011 (Telangana, Andhra Pradesh, Assam, etc), these boundaries will no longer apply. 
+<br/> This map has assembly constituency boundaries from the 2011 delimitation. If your state conducted a delimitation exercise post-2011 (Telangana, Andhra Pradesh, Delhi, Assam, etc), these boundaries will no longer apply. 
 <br/>
 <br/> Double check the constituency using the maps provided by the election authorities of your state, these are usually easily available online. 
 <br/>
-If you know someone who lives in your constituency, you might be able to identify it using [https://electoralsearch.eci.gov.in/](https://electoralsearch.eci.gov.in/) instead.
+<br/> If you know someone who lives in your constituency, you might be able to identify it using [https://electoralsearch.eci.gov.in/](https://electoralsearch.eci.gov.in/) instead.
 <br/>
 <br/> **Note:** You need to specify the assembly constituency in the form, not the parliamentary constituency.
 
